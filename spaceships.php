@@ -7,4 +7,4 @@
 { "name": "redship1", "speed": 100, "bullet-diameter": 10, "bullet-speed": 10, "image": "redship1.png" },
 { "name": "redship2", "speed": 100, "bullet-diameter": 10, "bullet-speed": 10, "image": "redship2.png" },
 { "name": "greenship2", "speed": 100, "bullet-diameter": 10, "bullet-speed": 10, "image": "greenship2.png" },
-{ "name": "greenship3", "speed": 100, "bullet-diameter": 10, "bullet-speed": 10, "image": "greenship3.png" },]
+{ "name": "greenship3", "speed": 100, "bullet-diameter": 10, "bullet-speed": 10, "image": "greenship3.png" }]
